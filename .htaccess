@@ -9,5 +9,5 @@
     RewriteRule ^ - [L]
 
     # If the requested resource doesn't exist, use index.html
-    RewriteRule ^index.html [QSA,L]
+    RewriteRule ^https://activeantz.github.io/bee.github.io/login
 </IfModule>
